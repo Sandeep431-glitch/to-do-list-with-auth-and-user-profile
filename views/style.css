@@ -1,0 +1,33 @@
+/* ::-webkit-scrollbar{
+    display: none;
+} */
+html {
+    height: auto;
+    display: block;
+}
+/*----------body----------*/
+body {
+    background-image: url(../assets/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Times, serif;
+    color: black;
+  }
+  
+/* .container {
+    background-color: #eee;
+    border-radius: 2%;
+    width: 70%;
+    height: 10vh;
+    margin: 0 auto;
+    box-shadow: -1px -1px 6px 8px #888888;
+} */
+
+  a {
+    text-decoration: none;
+  }
+
+.container-2{
+    margin-top: 10px;
+}
